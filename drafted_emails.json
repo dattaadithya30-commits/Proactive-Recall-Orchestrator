@@ -1,0 +1,23 @@
+[
+    {
+        "to_email": "jaya.aditya@pharmachain.org",
+        "subject": "URGENT: Drug Recall Notice - Acetaminophen Batch LOT-A45",
+        "body": "Dear Jaya Aditya,\n\nThis is an urgent notification regarding a recall for Acetaminophen, Batch ID LOT-A45. Please take immediate action to quarantine and return any units of this batch. Further instructions will follow.\n\nSincerely,\nProactive Recall Orchestrator",
+        "facility_name": "Global Logistics Hub LOC-001",
+        "contact_name": "Jaya Aditya"
+    },
+    {
+        "to_email": "vishva@pharmachain.org",
+        "subject": "URGENT: Drug Recall Notice - Acetaminophen Batch LOT-A45",
+        "body": "Dear Vishva,\n\nThis is an urgent notification regarding a recall for Acetaminophen, Batch ID LOT-A45. Please take immediate action to quarantine and return any units of this batch. Further instructions will follow.\n\nSincerely,\nProactive Recall Orchestrator",
+        "facility_name": "Global Logistics Hub LOC-004",
+        "contact_name": "Vishva"
+    },
+    {
+        "to_email": "harper.miller@pharmachain.org",
+        "subject": "URGENT: Drug Recall Notice - Acetaminophen Batch LOT-A45",
+        "body": "Dear Harper Miller,\n\nThis is an urgent notification regarding a recall for Acetaminophen, Batch ID LOT-A45. Please take immediate action to quarantine and return any units of this batch. Further instructions will follow.\n\nSincerely,\nProactive Recall Orchestrator",
+        "facility_name": "Mercy Health Hospital LOC-042",
+        "contact_name": "Harper Miller"
+    }
+]

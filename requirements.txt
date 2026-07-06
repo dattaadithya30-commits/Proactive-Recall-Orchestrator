@@ -1,0 +1,6 @@
+google-adk
+pandas
+seaborn
+matplotlib
+mcp
+python-dotenv
